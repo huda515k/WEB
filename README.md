@@ -11,6 +11,12 @@ This project is a simple weather forecast and chatbot application built using HT
 - **Chatbot Interaction**: The chatbot can answer user queries based on predefined logic. It currently handles weather-related queries and can be extended to provide more general responses.
 - **Pagination**: Weather data is paginated, displaying 5 entries per page with 'Previous' and 'Next' buttons for navigation.
 
+## files
+testapp.html
+testapp.css
+testapp.js
+tables.html
+
 ## How to Run the App
 
 To run this application locally, you'll need to follow these steps:
