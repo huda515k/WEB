@@ -1,5 +1,3 @@
-# WEB
-Web Assignement 2
 
 # Weather & Chatbot App
 
